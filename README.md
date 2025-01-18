@@ -10,4 +10,4 @@ where:
 * host is hostname or IP address,
 * port is a numerical value or -
 
-Icon copyright is mine (thought you may use as you wish), the rest I assert no rights over, use it as you wish, I don't care.
+Icon copyright is mine (though you may use as you wish), the rest I assert no rights over. Use as you wish, I don't care.
